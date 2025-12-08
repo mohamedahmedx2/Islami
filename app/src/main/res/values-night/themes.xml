@@ -3,5 +3,9 @@
     <style name="Base.Theme.Islami" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorSecondary">@color/primaryColor</item>
+        <item name="colorOnPrimaryContainer">@color/primaryColor</item>
+        <item name="colorSecondaryContainer">@color/primaryColor</item>
     </style>
 </resources>
